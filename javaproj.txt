@@ -1,0 +1,6 @@
+SRC=$(pwd)/src/
+BIN=$(pwd)/bin/
+DOC=$(pwd)/doc/
+RES=$(pwd)/res/
+LIB=$(pwd)/lib/
+HOME=$(pwd)
